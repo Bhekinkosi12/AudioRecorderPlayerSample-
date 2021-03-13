@@ -11,5 +11,6 @@ namespace AudioRecorderDemo.Interfaces
         void PlayRecording();
         void SaveRecording();
         void ResetRecording();
+        void PlayList();
     }
 }
